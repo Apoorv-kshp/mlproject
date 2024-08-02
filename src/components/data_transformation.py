@@ -1,4 +1,5 @@
 import sys
+sys.path.insert(0, 'C:\ML Project')
 from dataclasses import dataclass
 
 import numpy as np 
